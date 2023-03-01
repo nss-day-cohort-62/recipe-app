@@ -1,5 +1,5 @@
-// TODO: This component should show a list of all decorations and
-// include a select element to filter decorations by category
+// TODO: This component should show a list of all recipes and
+// include a select element to filter recipes by category
 
 import './Recipes.css'
 
